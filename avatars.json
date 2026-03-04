@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Bank",
+    "file": "bank.svg",
+    "category": "Finance"	
+  },
+  {
+    "name": "WeChat",
+    "file": "chat.svg",
+    "category": "Social Network"
+  }
+]
